@@ -156,3 +156,26 @@ Entwickler aus **Leipzig**. Ich nutze KI, um Projekte zu erstellen und zu verbes
 ⭐ From [Evreu1pro](https://github.com/Evreu1pro) with ☕ & 🤖
 
 </div>
+
+---
+
+## SEO · Discoverability
+
+**Name:** Evreu1pro  
+**Role:** AI-assisted web developer / open-source builder  
+**Location:** Leipzig, Germany  
+**Website:** [evreu1pro.github.io](https://evreu1pro.github.io)  
+**GitHub:** [github.com/Evreu1pro](https://github.com/Evreu1pro)
+
+### Keywords
+`Evreu1pro` · `Python` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Vercel` · `open source` · `AI developer` · `Leipzig` · `web developer` · `EchoPrint AI` · `business websites Germany`
+
+### Portfolio live demos
+- [EchoPrint AI](https://echo-print-ai.vercel.app) — [source](https://github.com/Evreu1pro/EchoPrint-AI)
+- [Vieth Logistik demo](https://vieth-logistik-de.vercel.app) — [source](https://github.com/Evreu1pro/vieth-logistik.de)
+- [BHS Walldorf demo](https://bhs-chi.vercel.app) — [source](https://github.com/Evreu1pro/bhs-)
+- [Franz Vieth Logistik v2](https://franz-vieth-logistik-v2.vercel.app) — [source](https://github.com/Evreu1pro/Franz-Vieth-Logistik-v2)
+
+### Search tips
+Google: `Evreu1pro GitHub` · `Evreu1pro Leipzig` · `Evreu1pro EchoPrint` · `site:github.com/Evreu1pro`
+
