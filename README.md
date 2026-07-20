@@ -34,7 +34,7 @@ Web / freelance-ish side (DE business sites + small apps):
 | [Teleboxi](https://github.com/Evreu1pro/Teleboxi) | small UI experiment | [demo](https://teleboxi.vercel.app) |
 | [apikeis](https://github.com/Evreu1pro/apikeis) | TS / API playground | — |
 
-Old random repos still hang around. Ignore the noise, pin list below is the real portfolio.
+Old random repos still hang around. Ignore the noise, pins on the profile (set in GH UI) are the real portfolio.
 
 ---
 
