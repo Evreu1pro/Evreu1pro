@@ -1,181 +1,83 @@
-﻿<div align="center">
+# Evreu1pro
 
-# Hey, I'm Evreu1pro 👋
+Leipzig. Web + a bit of ML. I use AI tools a lot (copilot-style), but the decisions and the mess are mine.
 
-### AI-powered builder · Open Source · Leipzig 🇩🇪
-
-[![GitHub followers](https://img.shields.io/github/followers/Evreu1pro?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/Evreu1pro?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Evreu1pro?affiliations=OWNER&style=for-the-badge&logo=github&color=yellow)](https://github.com/Evreu1pro?tab=repositories)
-[![Profile views](https://komarev.com/ghpvc/?username=Evreu1pro&style=for-the-badge&color=blueviolet)](https://github.com/Evreu1pro)
-[![Made with AI](https://img.shields.io/badge/Built%20with-AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)](https://github.com/Evreu1pro)
-
-**EN** · **RU** · **DE**
-
-I build and improve real projects with AI — web apps, business sites, and Python experiments.  
-Я создаю и улучшаю проекты с помощью ИИ — веб-приложения, сайты и Python-эксперименты.  
-Ich baue und verbessere Projekte mit KI — Web-Apps, Business-Websites und Python-Experimente.
-
-</div>
+site: https://evreu1pro.github.io
 
 ---
 
-## 🌐 About me · Обо мне · Über mich
+## now
 
-| | |
-|:--|:--|
-| 🧠 **Focus** | Building & shipping with AI assistants |
-| 🛠️ **Stack** | Python · TypeScript · JavaScript · HTML/CSS · Vercel |
-| 📍 **Based in** | Leipzig, Germany |
-| 🎯 **Mode** | Open source · portfolio · continuous learning |
-| 💬 **Languages** | RU · EN · DE |
+Main focus is **HYDRA Golf** — my fork of [openai/parameter-golf](https://github.com/openai/parameter-golf).
 
-<details>
-<summary><b>🇷🇺 Русский</b></summary>
+tl;dr: train a tiny LM under **16MB / ~10 min**, chase lower BPB on FineWeb. Not claiming SOTA. My best *verified* run is around **1.061 BPB** (see 
+ecords/ in the repo). Gap to the public board top is small-ish (~0.005), still work.
 
-Разработчик из **Лейпцига**. Работаю с ИИ для создания и улучшения проектов: от лендингов и бизнес-сайтов до TypeScript-приложений и Python/ML-экспериментов. Делаю open source «для души» — чисто, с деплоем и понятными репозиториями.
+- repo: [parameter-golf](https://github.com/Evreu1pro/parameter-golf) (fork)
+- writeup / site: https://evreu1pro.github.io/parameter-golf/
+- stack in short: PyTorch, quant tricks, schedules, multi-seed checks
 
-</details>
-
-<details>
-<summary><b>🇩🇪 Deutsch</b></summary>
-
-Entwickler aus **Leipzig**. Ich nutze KI, um Projekte zu erstellen und zu verbessern: Business-Websites, TypeScript-Apps und Python/ML-Experimente. Open Source aus Leidenschaft — mit sauberem Code, Deploy und klaren Repos.
-
-</details>
+I build this mostly solo. AI helps with boilerplate and docs. Experiments, gates, and what gets shipped — me.
 
 ---
 
-## 🚀 Featured projects · Избранные · Highlights
+## other stuff I actually ship
 
-| Project | Stack | Live |
-|:--|:--|:--|
-| **[EchoPrint-AI](https://github.com/Evreu1pro/EchoPrint-AI)** | TypeScript · AI · Vercel | [Demo](https://echo-print-ai.vercel.app) |
-| **[vieth-logistik.de](https://github.com/Evreu1pro/vieth-logistik.de)** | HTML · CSS · JS · Vercel | [Demo](https://vieth-logistik-de.vercel.app) |
-| **[Franz-Vieth-Logistik-v2](https://github.com/Evreu1pro/Franz-Vieth-Logistik-v2)** | HTML · CSS · JS · Vercel | [Demo](https://franz-vieth-logistik-v2.vercel.app) |
-| **[bhs-](https://github.com/Evreu1pro/bhs-)** | CSS · HTML · JS · Vercel | [Demo](https://bhs-chi.vercel.app) |
-| **[apikeis](https://github.com/Evreu1pro/apikeis)** | TypeScript · API | — |
-| **[Teleboxi](https://github.com/Evreu1pro/Teleboxi)** | CSS · UI · Vercel | [Demo](https://teleboxi.vercel.app) |
-| **[parameter-golf](https://github.com/Evreu1pro/parameter-golf)** | Python · ML · LLM | fork of OpenAI challenge |
+Web / freelance-ish side (DE business sites + small apps):
 
-```text
-💡 AI × Web × Python — ship fast, improve continuously
-```
+| repo | what | live |
+|------|------|------|
+| [EchoPrint-AI](https://github.com/Evreu1pro/EchoPrint-AI) | TS app, print/echo idea | [demo](https://echo-print-ai.vercel.app) |
+| [vieth-logistik.de](https://github.com/Evreu1pro/vieth-logistik.de) | logistik site | [demo](https://vieth-logistik-de.vercel.app) |
+| [Franz-Vieth-Logistik-v2](https://github.com/Evreu1pro/Franz-Vieth-Logistik-v2) | v2 layout pass | [demo](https://franz-vieth-logistik-v2.vercel.app) |
+| [bhs-](https://github.com/Evreu1pro/bhs-) | CSS-heavy page | [demo](https://bhs-chi.vercel.app) |
+| [Teleboxi](https://github.com/Evreu1pro/Teleboxi) | small UI experiment | [demo](https://teleboxi.vercel.app) |
+| [apikeis](https://github.com/Evreu1pro/apikeis) | TS / API playground | — |
 
----
-
-## 🛠️ Tech stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Platform & tools
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### AI workflow
-![AI Assisted](https://img.shields.io/badge/AI-Assisted%20Development-8A2BE2?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge)
+Old random repos still hang around. Ignore the noise, pin list below is the real portfolio.
 
 ---
 
-## 📊 GitHub stats
+## how I work
 
-<div align="center">
+- **langs:** Python, TS/JS, plain HTML/CSS when a site just needs to load fast
+- **deploy:** usually Vercel
+- **git:** small PRs when I can, sometimes I yolo-merge my own stuff on side projects (dont @ me)
+- **AI:** yes I use it. no Im not a bot farm. if something looks too clean, dig into commits — half of them are me fixing my own earlier idea at 1am
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Evreu1pro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evreu1pro&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Evreu1pro&theme=radical&hide_border=true" alt="GitHub streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Evreu1pro&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="Trophies" />
-
-</div>
+RU / EN / DE — ok for chat. Code comments tend to be EN.
 
 ---
 
-## 🏆 Achievements roadmap
+## lab
 
-| Badge | Goal | Status |
-|:--|:--|:--|
-| ⚡ Quickdraw | Close an issue/PR within 5 min of opening | ✅ done — waiting on GH |
-| 🦈 Pull Shark | Merged PRs (2 → 16 → 128…) | ✅ 44+ merged — next 128 |
-| 🎲 YOLO | Merge your own PR without review | ✅ done — waiting on GH |
-| 🤝 Pair Extraordinaire | Co-authored commits | ⏳ need real collaborator |
-| 🧠 Galaxy Brain | Accepted discussion answers | 🟡 answers posted — need accepted |
-| ⭐ Starstruck | Stars on your repos (16+) | 🟡 max 1 star — polish + share |
-| 🌊 Arctic Code Vault | Historical (2019/2020 archive) | ❄️ if eligible |
-| 🚀 Public Sponsor | GitHub Sponsors | optional |
-
-> Real contributions > fake farming. I ship useful stuff and help other repos.
+[achievement-lab](https://github.com/Evreu1pro/achievement-lab) = sandbox for GH workflow (docs, PRs, discussions). not the product. HYDRA and the web demos are.
 
 ---
 
-## 📈 Activity
+## badges Im chasing (honest)
 
-<div align="center">
+| | status |
+|--|--------|
+| Quickdraw / YOLO | should be unlocked, GH is slow sometimes |
+| Pull Shark | a bunch of merged PRs already, still grinding toward higher tiers |
+| Pair Extraordinaire | need a *real* co-author, not an alt |
+| Galaxy Brain | answered a couple Qs, waiting on accepts |
+| Starstruck | need 16⭐ on one public repo — golf or EchoPrint are the bet |
 
-![Snake animation](https://raw.githubusercontent.com/Evreu1pro/Evreu1pro/output/github-contribution-grid-snake-dark.svg)
-
-![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Evreu1pro&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🤝 Connect · Связь · Kontakt
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Evreu1pro-181717?style=for-the-badge&logo=github)](https://github.com/Evreu1pro)
-[![Open for collab](https://img.shields.io/badge/Open%20for-Collaboration-success?style=for-the-badge)](https://github.com/Evreu1pro)
-
-**Issues & PRs welcome · Issues und PRs willkommen · Issues и PR приветствуются**
-
-</div>
+Im not buying stars. if you like HYDRA or a demo, star that one. if not, whatever.
 
 ---
 
-<div align="center">
+## stats (vanity, I know)
 
-### ⚡ Building with AI, shipping with care
-
-*"Create → deploy → improve → repeat"*
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A855F7&center=true&vCenter=true&width=480&lines=Python+%7C+TypeScript+%7C+Web;AI-assisted+open+source;Leipzig+%E2%86%92+the+world)
-
-⭐ From [Evreu1pro](https://github.com/Evreu1pro) with ☕ & 🤖
-
-</div>
+![stats](https://github-readme-stats.vercel.app/api?username=Evreu1pro&show_icons=true&theme=dark&hide_border=true&include_all_commits=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Evreu1pro&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ---
 
-## SEO · Discoverability
+## contact
 
-**Name:** Evreu1pro  
-**Role:** AI-assisted web developer / open-source builder  
-**Location:** Leipzig, Germany  
-**Website:** [evreu1pro.github.io](https://evreu1pro.github.io)  
-**GitHub:** [github.com/Evreu1pro](https://github.com/Evreu1pro)
+Just open an issue on a repo or ping me on GH. PRs on docs/fixes welcome if theyre small and clear.
 
-### Keywords
-`Evreu1pro` · `Python` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Vercel` · `open source` · `AI developer` · `Leipzig` · `web developer` · `EchoPrint AI` · `business websites Germany`
-
-### Portfolio live demos
-- [EchoPrint AI](https://echo-print-ai.vercel.app) — [source](https://github.com/Evreu1pro/EchoPrint-AI)
-- [Vieth Logistik demo](https://vieth-logistik-de.vercel.app) — [source](https://github.com/Evreu1pro/vieth-logistik.de)
-- [BHS Walldorf demo](https://bhs-chi.vercel.app) — [source](https://github.com/Evreu1pro/bhs-)
-- [Franz Vieth Logistik v2](https://franz-vieth-logistik-v2.vercel.app) — [source](https://github.com/Evreu1pro/Franz-Vieth-Logistik-v2)
-
-### Search tips
-Google: `Evreu1pro GitHub` · `Evreu1pro Leipzig` · `Evreu1pro EchoPrint` · `site:github.com/Evreu1pro`
-
+Evreu1pro · Leipzig · 2026
