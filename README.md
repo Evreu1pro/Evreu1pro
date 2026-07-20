@@ -107,12 +107,12 @@ Entwickler aus **Leipzig**. Ich nutze KI, um Projekte zu erstellen und zu verbes
 
 | Badge | Goal | Status |
 |:--|:--|:--|
-| ⚡ Quickdraw | Close an issue/PR within 5 min of opening | 🎯 next |
-| 🦈 Pull Shark | Merged PRs (2 → 16 → 128…) | 🎯 open source |
-| 🎲 YOLO | Merge your own PR without review | 🎯 easy win |
-| 🤝 Pair Extraordinaire | Co-authored commits | 🎯 collab |
-| 🧠 Galaxy Brain | Accepted discussion answers | 🎯 later |
-| ⭐ Starstruck | Stars on your repos (16+) | 🎯 quality projects |
+| ⚡ Quickdraw | Close an issue/PR within 5 min of opening | ✅ done — waiting on GH |
+| 🦈 Pull Shark | Merged PRs (2 → 16 → 128…) | ✅ 44+ merged — next 128 |
+| 🎲 YOLO | Merge your own PR without review | ✅ done — waiting on GH |
+| 🤝 Pair Extraordinaire | Co-authored commits | ⏳ need real collaborator |
+| 🧠 Galaxy Brain | Accepted discussion answers | 🟡 answers posted — need accepted |
+| ⭐ Starstruck | Stars on your repos (16+) | 🟡 max 1 star — polish + share |
 | 🌊 Arctic Code Vault | Historical (2019/2020 archive) | ❄️ if eligible |
 | 🚀 Public Sponsor | GitHub Sponsors | optional |
 
