@@ -38,7 +38,7 @@ If you’re also grinding the board — open an issue on my fork or poke me. Hap
 | Project | Stack | Live |
 |---------|--------|------|
 | **[translogistik](https://github.com/Evreu1pro/translogistik)** | HTML · design tokens · vanilla JS · motion map | [demo](https://translogistik.vercel.app) |
-| **[EchoPrint-AI](https://github.com/Evreu1pro/EchoPrint-AI)** | TypeScript · Vercel | [demo](https://echo-print-ai.vercel.app) |
+| **[EchoPrint-AI](https://github.com/Evreu1pro/EchoPrint-AI)** | Fingerprint & exposure lab · M1–M5 + M7 AdTech · Next.js | [demo](https://echo-print-ai.vercel.app) |
 | **[vieth-logistik.de](https://github.com/Evreu1pro/vieth-logistik.de)** | Business site · DE logistics | [demo](https://vieth-logistik-de.vercel.app) |
 | **[Franz-Vieth-Logistik-v2](https://github.com/Evreu1pro/Franz-Vieth-Logistik-v2)** | Layout / brand pass | [demo](https://franz-vieth-logistik-v2.vercel.app) |
 | **[bhs-](https://github.com/Evreu1pro/bhs-)** | CSS architecture | [demo](https://bhs-chi.vercel.app) |
