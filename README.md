@@ -45,7 +45,10 @@ If you’re also grinding the board — open an issue on my fork or poke me. Hap
 | **[Teleboxi](https://github.com/Evreu1pro/Teleboxi)** | Lightweight UI experiment | [demo](https://teleboxi.vercel.app) |
 | **[apikeis](https://github.com/Evreu1pro/apikeis)** | TypeScript / API playground | — |
 
-Pins on the profile = the real portfolio. Random old experiments stay archived / private.
+**Pin order (do this on the profile UI):** `translogistik` → `EchoPrint-AI` → `parameter-golf` → `vieth-logistik.de` → `Evreu1pro.github.io`  
+Portfolio site flagship block: [evreu1pro.github.io/#translogistik](https://evreu1pro.github.io/#translogistik)
+
+Random old experiments stay archived / private.
 
 ---
 
