@@ -26,6 +26,8 @@ Notes + runs: [writeup](https://evreu1pro.github.io/parameter-golf/)
 
 Also on the board? Open an issue on the fork — compare runs, no ego.
 
+**[ZeroResp v5.2](https://github.com/Evreu1pro/ZeroResp)** — adaptive Iterated Prisoner's Dilemma player for Axelrod-Python. Field pack (32 strategies, 200 turns, 8 reps): **2.843 SPT at 0% noise**, **2.375 at 5%**. Reciprocators / Grudger hit **602**. Production freeze — remaining oracle “gaps” are exploiter ceilings, not bugs.
+
 ```text
   16MB / 10min ──► squeeze the model ──► measure BPB ──► do it again
          ▲                                           │
@@ -40,6 +42,7 @@ Stuff you can open in a tab — not “coming soon”.
 
 | drop | vibe | open it |
 |------|------|---------|
+| **[ZeroResp](https://github.com/Evreu1pro/ZeroResp)** | IPD strategy · Axelrod 4.x · v5.2 freeze | [repo](https://github.com/Evreu1pro/ZeroResp) |
 | **[parameter-golf](https://github.com/Evreu1pro/parameter-golf)** | tiny LM efficiency race | [notes](https://evreu1pro.github.io/parameter-golf/) |
 | **[EchoPrint-AI](https://github.com/Evreu1pro/EchoPrint-AI)** | fingerprint & exposure lab · AdTech transparency | [demo](https://echo-print-ai.vercel.app) |
 | **[translogistik](https://github.com/Evreu1pro/translogistik)** | multi-page logistics brand (DE) · tokens · motion map | [demo](https://translogistik.vercel.app) |
@@ -56,6 +59,7 @@ Side experiments (CSS / layout playgrounds): [bhs-](https://github.com/Evreu1pro
 1. **One hard problem** — parameter-golf: limits you can measure, not vibes.
 2. **One sharp lab** — EchoPrint: what the browser leaks, scored in public.
 3. **Proof I ship UI** — real DE multi-page sites that load without a 4MB framework tax.
+4. **One game-theory player** — ZeroResp: tournament receipts, then stop at the ceiling.
 
 No “open to work” banner. No badge farming.  
 If something here is useful — star it, fork it, roast the writeup, send a PR.
@@ -78,6 +82,7 @@ If something here is useful — star it, fork it, roast the writeup, send a PR.
 
 | you are… | do this |
 |----------|---------|
+| grinding **IPD / Axelrod** | fork [ZeroResp](https://github.com/Evreu1pro/ZeroResp) · compare SPT, not vibes |
 | grinding **parameter-golf** | issue on the fork · share BPB + setup |
 | into **fingerprint / AdTech** | break EchoPrint · open an issue with repro |
 | into **DE logistics / brand web** | feedback on translogistik / vieth demos |
