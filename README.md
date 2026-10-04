@@ -5,7 +5,7 @@
 Tiny models under hard limits. Web that actually ships.  
 Not a pitch deck — a lab log you can fork and argue with.
 
-[portfolio](https://evreu1pro.github.io) · [parameter-golf writeup](https://evreu1pro.github.io/parameter-golf/) · [translogistik live](https://translogistik.vercel.app)
+[portfolio](https://evreu1pro.github.io) · [parameter-golf writeup](https://evreu1pro.github.io/parameter-golf/)
 
 ---
 
@@ -45,12 +45,10 @@ Stuff you can open in a tab — not “coming soon”.
 | **[ZeroResp](https://github.com/Evreu1pro/ZeroResp)** | IPD strategy · Axelrod 4.x · v5.2 freeze | [repo](https://github.com/Evreu1pro/ZeroResp) |
 | **[parameter-golf](https://github.com/Evreu1pro/parameter-golf)** | tiny LM efficiency race | [notes](https://evreu1pro.github.io/parameter-golf/) |
 | **[EchoPrint-AI](https://github.com/Evreu1pro/EchoPrint-AI)** | fingerprint & exposure lab · AdTech transparency | [demo](https://echo-print-ai.vercel.app) |
-| **[translogistik](https://github.com/Evreu1pro/translogistik)** | multi-page logistics brand (DE) · tokens · motion map | [demo](https://translogistik.vercel.app) |
-| **[vieth-logistik](https://github.com/Evreu1pro/vieth-logistik.de)** | DE logistics site, clean ship | [demo](https://vieth-logistik-de.vercel.app) |
 
-Side experiments (CSS / layout playgrounds): [bhs-](https://github.com/Evreu1pro/bhs-) · [Teleboxi](https://github.com/Evreu1pro/Teleboxi) · [apikeis](https://github.com/Evreu1pro/apikeis) · [Franz-Vieth v2](https://github.com/Evreu1pro/Franz-Vieth-Logistik-v2)
+Side experiments (CSS / layout playgrounds): [Teleboxi](https://github.com/Evreu1pro/Teleboxi) · [apikeis](https://github.com/Evreu1pro/apikeis)
 
-**Pins (profile UI):** `parameter-golf` → `EchoPrint-AI` → `translogistik` → `Evreu1pro.github.io` → `vieth-logistik.de`
+**Pins (profile UI):** `ZeroResp` → `parameter-golf` → `EchoPrint-AI` → `Evreu1pro.github.io`
 
 ---
 
@@ -58,8 +56,7 @@ Side experiments (CSS / layout playgrounds): [bhs-](https://github.com/Evreu1pro
 
 1. **One hard problem** — parameter-golf: limits you can measure, not vibes.
 2. **One sharp lab** — EchoPrint: what the browser leaks, scored in public.
-3. **Proof I ship UI** — real DE multi-page sites that load without a 4MB framework tax.
-4. **One game-theory player** — ZeroResp: tournament receipts, then stop at the ceiling.
+3. **One game-theory player** — ZeroResp: tournament receipts, then stop at the ceiling.
 
 No “open to work” banner. No badge farming.  
 If something here is useful — star it, fork it, roast the writeup, send a PR.
@@ -85,7 +82,6 @@ If something here is useful — star it, fork it, roast the writeup, send a PR.
 | grinding **IPD / Axelrod** | fork [ZeroResp](https://github.com/Evreu1pro/ZeroResp) · compare SPT, not vibes |
 | grinding **parameter-golf** | issue on the fork · share BPB + setup |
 | into **fingerprint / AdTech** | break EchoPrint · open an issue with repro |
-| into **DE logistics / brand web** | feedback on translogistik / vieth demos |
 | just browsing | [portfolio](https://evreu1pro.github.io) · pin the repos that slap |
 
 Small clear docs/fix PRs welcome. Empty ⭐ spam — not the game.
